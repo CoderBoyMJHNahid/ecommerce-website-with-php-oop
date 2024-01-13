@@ -1,0 +1,16 @@
+.bootstrap-tagsinput .tag {
+    background: #007bff;
+    padding: 4px 10px;
+    font-size: 14px;
+    border-radius: 7px;
+}
+.bootstrap-tagsinput{
+    margin-top:10px;
+    padding:7px;
+    margin-left: 5px;
+}
+table#categoryTable img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
